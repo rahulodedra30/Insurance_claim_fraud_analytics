@@ -2,6 +2,12 @@
 
 The objective of this project is to develop a predictive model that can distinguish fraudulent claims from legitimate ones in the auto insurance industry. By accurately identifying fraudulent claims, insurance companies can minimize financial losses and maintain competitive pricing for their policies. 
 
+### Usage
+1. Set up Google Cloud Storage credentials.
+2. Execute the data pipeline script to fetch data from Google Cloud Storage to Python.
+3. Run the Jupyter notebook for data cleaning, EDA, and model building.
+4. Connect Tableau to Google BigQuery to access and visualize the data.
+
 ### Importance
 
 Detecting fraudulent claims is crucial for insurance companies to:
